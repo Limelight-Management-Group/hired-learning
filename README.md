@@ -1,6 +1,9 @@
 # Hired-learning
 ### This is my attempt to becoming more prepared for employment.
 ---
+### This is my Gist:
+[The Gist of getting hired!](https://gist.github.com/Limelight-Management-Group/7ec9f12eda3abbe1ac9a9f523d296d32)
+---
 ![Wayne Banks](http://i1190.photobucket.com/albums/z456/Wayne_Diddyinanycity_Banks/IMG_5577_zpshonf5hnc.jpg)
 ---
 ### My name is Wayne Banks, and I am full stack software engineer with over 3 years of web development experience. I wanted to spend some time and make sure that I was as prepared as possible for my next role. Being able to code is important, once you get the job. This week was about getting prepared to get hired. 
