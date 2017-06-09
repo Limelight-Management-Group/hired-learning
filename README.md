@@ -30,5 +30,16 @@
 ## Stretch Goals
 - [x] Blog 
 [Wayne's World Posts](https://waynes-world.herokuapp.com/posts)
+---
+- [x] Include algorithm examples in this Readme
+## Hash Table Example
+![Hash Tables example](http://i1190.photobucket.com/albums/z456/Wayne_Diddyinanycity_Banks/IMG_3399_zpsmcel6oli.jpg)
 
-- [] Include algorithm examples in this Readme
+### One of the best experiences I've gained this week is being able to understand the way that the Hashing algorithn works.
+---
+## Merge Sort Example
+![Merge Sort example](http://i1190.photobucket.com/albums/z456/Wayne_Diddyinanycity_Banks/IMG_3389_zpskmngtfyd.jpg)
+---
+## Binary Search
+![Binary Search example](http://i1190.photobucket.com/albums/z456/Wayne_Diddyinanycity_Banks/IMG_3391_zpscp0em60a.jpg)
+### This was great practice for me to understand how to calculate Big O and how to optimize from linear to binary.
