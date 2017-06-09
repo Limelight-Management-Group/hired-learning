@@ -1,4 +1,4 @@
-# Hired-learning
+# Hired Learning
 ### This is my attempt to becoming more prepared for employment.
 ---
 ### This is my Gist:
