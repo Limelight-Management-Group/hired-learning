@@ -28,5 +28,7 @@
 - [x] Work with Serafin with his LinkedIn and Resume.
 ***
 ## Stretch Goals
-- [] Blog 
+- [x] Blog 
+[Wayne's World Posts](https://waynes-world.herokuapp.com/posts)
+
 - [] Include algorithm examples in this Readme
